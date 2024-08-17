@@ -68,7 +68,7 @@ const MainContent = () => {
           <div className="order-bottom">
             Items per page
             <button className="btn dropdown">
-              20
+              6
               <FaChevronDown />{" "}
             </button>
           </div>
